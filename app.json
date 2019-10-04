@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Your To Do List",
+    "slug": "your-todo",
+    "description": "Your To Do App made with React Native",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
